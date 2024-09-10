@@ -12,6 +12,4 @@ Mobile App Developer
 src="https://img.shields.io/twitter/follow/sammyBorborbor?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
-
 
