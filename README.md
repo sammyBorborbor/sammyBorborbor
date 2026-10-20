@@ -1,15 +1,12 @@
-Samuel Owusu Ampadu
-===========================================================================================================================================
+# Samuel Owusu Ampadu
 
-Mobile App Developer
---------------------
+Android Engineer based in Accra, Ghana (UTC+0). I build Android apps in Kotlin and Java, with both XML Views and Jetpack Compose, mostly in fintech, payments and e-commerce.
 
-* ✉️  You can contact me at [owususamuel12@gmail.com](mailto:owususamuel12@gmail.com)
-* 🚀  I'm currently working on [Duke Sell](http://play.google.com/store/apps/details?id=com.dukesell.app)
-* 🧠  I'm learning Kotlin Multiplatform Mobile & Jetpack Compose
+- Led the Tendo reseller app from 10K to 50K+ installs across Ghana, Nigeria and South Africa
+- Main backend engineer on My Own Plan at United Pension Trustees
+- Building HoverFit, a Compose overlay app with a Gemini pipeline and full TalkBack support
+- Built [Wiki Reader](https://github.com/sammyBorborbor/wiki-reader), a Compose client for Wikipedia's APIs
 
-<a href="https://www.x.com/sammyBorborbor" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sammyBorborbor?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+**Stack:** Kotlin · Java · Jetpack Compose · Coroutines and Flow · Hilt · Retrofit · Apollo GraphQL · Room · Firebase · Flutter · React Native · Laravel
 
-
+**Contact:** [LinkedIn](https://www.linkedin.com/in/samuel-owusu-ampadu-a9a19b13b/) · [Email](mailto:owususamuel12@gmail.com)
